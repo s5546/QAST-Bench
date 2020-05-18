@@ -3,6 +3,21 @@ An automated suite for determining stability and performance of a PC under load.
 
 Created in quarantine, during the 2020 Coronavirus pandemic.
 
+# Disclaimer
+QAST-Bench is released under license GPL version 2.
+QAST Bench is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+QAST Bench is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with QAST Bench.  If not, see <https://www.gnu.org/licenses/>.
+
 # motivation:
 to eliminate uncertianty in a computer's performance and stability. Largely concerned with power and temperature of a computer: 
 
@@ -57,7 +72,12 @@ Created under the MVC framework. I learned that under Java and have absolutely n
 * CPU
 * GPU
 
-# All files are downloaded to %LOCALAPPDATA%/QAST-Bench
+# Softwares used:
+    All files are downloaded to %LOCALAPPDATA%/QAST-Bench
+    todo: figure out the softwares used
+
+# Contact
+    If you have any questions or concerns, please email me at spencerfinch7@gmail.com.
 
 # footnotes:
 [1]
