@@ -45,6 +45,8 @@ I also want to include temperatures in the score, but I haven't figured out exac
 
 technically speaking you could probably do everything this program does yourself just by running things with the same commands that I do and then doing the formula lol
 
+Created under the MVC framework. I learned that under Java and have absolutely no C++ experience prior to this project so like, haha that might be an awful idea **but it's what im doing you cannot stop me**
+
 # testing modules:
 * CPU
 * GPU
